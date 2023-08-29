@@ -160,4 +160,5 @@ cython_debug/
 #.idea/
 input/maildir/
 output/structured_data*
+.vscode/
 *.gz
